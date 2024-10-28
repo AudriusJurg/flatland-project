@@ -6,5 +6,7 @@ Project source: [Trokas AI Primer Course Flatland Project](https://trokas.github
 
 # Model performances based on evaluation
 Model 1: 71%~
+
 Model 2: 90.25%~
+
 Model 3: 96%~
