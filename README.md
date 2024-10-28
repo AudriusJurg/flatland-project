@@ -12,3 +12,5 @@ Model 2: 90.25%~
 Model 3: 96%~
 
 Model 4: 97%~
+
+Model 5(302KB): 91%~
